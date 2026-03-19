@@ -1,0 +1,14 @@
+/home/nex/workspace/csharp/praticas/exercicio POO 5/bin/Debug/net8.0/exercicio POO 5
+/home/nex/workspace/csharp/praticas/exercicio POO 5/bin/Debug/net8.0/exercicio POO 5.deps.json
+/home/nex/workspace/csharp/praticas/exercicio POO 5/bin/Debug/net8.0/exercicio POO 5.runtimeconfig.json
+/home/nex/workspace/csharp/praticas/exercicio POO 5/bin/Debug/net8.0/exercicio POO 5.dll
+/home/nex/workspace/csharp/praticas/exercicio POO 5/bin/Debug/net8.0/exercicio POO 5.pdb
+/home/nex/workspace/csharp/praticas/exercicio POO 5/obj/Debug/net8.0/exercicio POO 5.GeneratedMSBuildEditorConfig.editorconfig
+/home/nex/workspace/csharp/praticas/exercicio POO 5/obj/Debug/net8.0/exercicio POO 5.AssemblyInfoInputs.cache
+/home/nex/workspace/csharp/praticas/exercicio POO 5/obj/Debug/net8.0/exercicio POO 5.AssemblyInfo.cs
+/home/nex/workspace/csharp/praticas/exercicio POO 5/obj/Debug/net8.0/exercicio POO 5.csproj.CoreCompileInputs.cache
+/home/nex/workspace/csharp/praticas/exercicio POO 5/obj/Debug/net8.0/exercicio POO 5.dll
+/home/nex/workspace/csharp/praticas/exercicio POO 5/obj/Debug/net8.0/refint/exercicio POO 5.dll
+/home/nex/workspace/csharp/praticas/exercicio POO 5/obj/Debug/net8.0/exercicio POO 5.pdb
+/home/nex/workspace/csharp/praticas/exercicio POO 5/obj/Debug/net8.0/exercicio POO 5.genruntimeconfig.cache
+/home/nex/workspace/csharp/praticas/exercicio POO 5/obj/Debug/net8.0/ref/exercicio POO 5.dll

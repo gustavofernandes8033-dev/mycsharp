@@ -1,0 +1,14 @@
+/home/nex/workspace/csharp/projetos/lista de tarefas/bin/Debug/net8.0/lista de tarefas
+/home/nex/workspace/csharp/projetos/lista de tarefas/bin/Debug/net8.0/lista de tarefas.deps.json
+/home/nex/workspace/csharp/projetos/lista de tarefas/bin/Debug/net8.0/lista de tarefas.runtimeconfig.json
+/home/nex/workspace/csharp/projetos/lista de tarefas/bin/Debug/net8.0/lista de tarefas.dll
+/home/nex/workspace/csharp/projetos/lista de tarefas/bin/Debug/net8.0/lista de tarefas.pdb
+/home/nex/workspace/csharp/projetos/lista de tarefas/obj/Debug/net8.0/lista de tarefas.GeneratedMSBuildEditorConfig.editorconfig
+/home/nex/workspace/csharp/projetos/lista de tarefas/obj/Debug/net8.0/lista de tarefas.AssemblyInfoInputs.cache
+/home/nex/workspace/csharp/projetos/lista de tarefas/obj/Debug/net8.0/lista de tarefas.AssemblyInfo.cs
+/home/nex/workspace/csharp/projetos/lista de tarefas/obj/Debug/net8.0/lista de tarefas.csproj.CoreCompileInputs.cache
+/home/nex/workspace/csharp/projetos/lista de tarefas/obj/Debug/net8.0/lista de tarefas.dll
+/home/nex/workspace/csharp/projetos/lista de tarefas/obj/Debug/net8.0/refint/lista de tarefas.dll
+/home/nex/workspace/csharp/projetos/lista de tarefas/obj/Debug/net8.0/lista de tarefas.pdb
+/home/nex/workspace/csharp/projetos/lista de tarefas/obj/Debug/net8.0/lista de tarefas.genruntimeconfig.cache
+/home/nex/workspace/csharp/projetos/lista de tarefas/obj/Debug/net8.0/ref/lista de tarefas.dll

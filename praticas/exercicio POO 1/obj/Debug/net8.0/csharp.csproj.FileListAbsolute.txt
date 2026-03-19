@@ -1,0 +1,42 @@
+/home/nex/workspace/csharp/bin/Debug/net8.0/csharp
+/home/nex/workspace/csharp/bin/Debug/net8.0/csharp.deps.json
+/home/nex/workspace/csharp/bin/Debug/net8.0/csharp.runtimeconfig.json
+/home/nex/workspace/csharp/bin/Debug/net8.0/csharp.dll
+/home/nex/workspace/csharp/bin/Debug/net8.0/csharp.pdb
+/home/nex/workspace/csharp/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/nex/workspace/csharp/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/home/nex/workspace/csharp/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/home/nex/workspace/csharp/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/home/nex/workspace/csharp/obj/Debug/net8.0/csharp.dll
+/home/nex/workspace/csharp/obj/Debug/net8.0/refint/csharp.dll
+/home/nex/workspace/csharp/obj/Debug/net8.0/csharp.pdb
+/home/nex/workspace/csharp/obj/Debug/net8.0/csharp.genruntimeconfig.cache
+/home/nex/workspace/csharp/obj/Debug/net8.0/ref/csharp.dll
+/home/nex/workspace/csharp/praticas/bin/Debug/net8.0/csharp
+/home/nex/workspace/csharp/praticas/bin/Debug/net8.0/csharp.deps.json
+/home/nex/workspace/csharp/praticas/bin/Debug/net8.0/csharp.runtimeconfig.json
+/home/nex/workspace/csharp/praticas/bin/Debug/net8.0/csharp.dll
+/home/nex/workspace/csharp/praticas/bin/Debug/net8.0/csharp.pdb
+/home/nex/workspace/csharp/praticas/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/nex/workspace/csharp/praticas/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/home/nex/workspace/csharp/praticas/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/home/nex/workspace/csharp/praticas/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/home/nex/workspace/csharp/praticas/obj/Debug/net8.0/csharp.dll
+/home/nex/workspace/csharp/praticas/obj/Debug/net8.0/refint/csharp.dll
+/home/nex/workspace/csharp/praticas/obj/Debug/net8.0/csharp.pdb
+/home/nex/workspace/csharp/praticas/obj/Debug/net8.0/csharp.genruntimeconfig.cache
+/home/nex/workspace/csharp/praticas/obj/Debug/net8.0/ref/csharp.dll
+/home/nex/workspace/csharp/praticas/exercicio POO 1/bin/Debug/net8.0/csharp
+/home/nex/workspace/csharp/praticas/exercicio POO 1/bin/Debug/net8.0/csharp.deps.json
+/home/nex/workspace/csharp/praticas/exercicio POO 1/bin/Debug/net8.0/csharp.runtimeconfig.json
+/home/nex/workspace/csharp/praticas/exercicio POO 1/bin/Debug/net8.0/csharp.dll
+/home/nex/workspace/csharp/praticas/exercicio POO 1/bin/Debug/net8.0/csharp.pdb
+/home/nex/workspace/csharp/praticas/exercicio POO 1/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/nex/workspace/csharp/praticas/exercicio POO 1/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/home/nex/workspace/csharp/praticas/exercicio POO 1/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/home/nex/workspace/csharp/praticas/exercicio POO 1/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/home/nex/workspace/csharp/praticas/exercicio POO 1/obj/Debug/net8.0/csharp.dll
+/home/nex/workspace/csharp/praticas/exercicio POO 1/obj/Debug/net8.0/refint/csharp.dll
+/home/nex/workspace/csharp/praticas/exercicio POO 1/obj/Debug/net8.0/csharp.pdb
+/home/nex/workspace/csharp/praticas/exercicio POO 1/obj/Debug/net8.0/csharp.genruntimeconfig.cache
+/home/nex/workspace/csharp/praticas/exercicio POO 1/obj/Debug/net8.0/ref/csharp.dll

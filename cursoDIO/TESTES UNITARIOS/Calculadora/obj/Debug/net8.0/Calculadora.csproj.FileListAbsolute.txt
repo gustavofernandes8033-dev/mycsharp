@@ -1,0 +1,14 @@
+/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/bin/Debug/net8.0/Calculadora
+/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/bin/Debug/net8.0/Calculadora.deps.json
+/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/bin/Debug/net8.0/Calculadora.runtimeconfig.json
+/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/bin/Debug/net8.0/Calculadora.dll
+/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/bin/Debug/net8.0/Calculadora.pdb
+/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/obj/Debug/net8.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfoInputs.cache
+/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfo.cs
+/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/obj/Debug/net8.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/obj/Debug/net8.0/Calculadora.dll
+/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/obj/Debug/net8.0/refint/Calculadora.dll
+/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/obj/Debug/net8.0/Calculadora.pdb
+/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/obj/Debug/net8.0/Calculadora.genruntimeconfig.cache
+/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/obj/Debug/net8.0/ref/Calculadora.dll
