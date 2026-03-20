@@ -1,0 +1,6 @@
+@APRENDENDO_APIS_HostAddress = http://localhost:5122
+
+GET {{APRENDENDO_APIS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
