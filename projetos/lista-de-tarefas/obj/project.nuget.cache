@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XDMxFrIlojU=",
+  "dgSpecHash": "atedcvJB0L0=",
   "success": true,
-  "projectFilePath": "/home/nex/workspace/csharp/projetos/lista de tarefas/lista de tarefas.csproj",
-  "expectedPackageFiles": [
-    "/home/nex/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/nex/workspace/c#/mycsharp/projetos/lista-de-tarefas/lista-de-tarefas.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
