@@ -1,0 +1,9 @@
+/home/nex/workspace/c#/mycsharp/cursoDIO/AprendendoApis/obj/Debug/net9.0/AprendendoApis.csproj.AssemblyReference.cache
+/home/nex/workspace/c#/mycsharp/cursoDIO/AprendendoApis/obj/Debug/net9.0/rpswa.dswa.cache.json
+/home/nex/workspace/c#/mycsharp/cursoDIO/AprendendoApis/obj/Debug/net9.0/AprendendoApis.GeneratedMSBuildEditorConfig.editorconfig
+/home/nex/workspace/c#/mycsharp/cursoDIO/AprendendoApis/obj/Debug/net9.0/AprendendoApis.AssemblyInfoInputs.cache
+/home/nex/workspace/c#/mycsharp/cursoDIO/AprendendoApis/obj/Debug/net9.0/AprendendoApis.AssemblyInfo.cs
+/home/nex/workspace/c#/mycsharp/cursoDIO/AprendendoApis/obj/Debug/net9.0/AprendendoApis.csproj.CoreCompileInputs.cache
+/home/nex/workspace/c#/mycsharp/cursoDIO/AprendendoApis/obj/Debug/net9.0/AprendendoApis.MvcApplicationPartsAssemblyInfo.cs
+/home/nex/workspace/c#/mycsharp/cursoDIO/AprendendoApis/obj/Debug/net9.0/AprendendoApis.MvcApplicationPartsAssemblyInfo.cache
+/home/nex/workspace/c#/mycsharp/cursoDIO/AprendendoApis/obj/Debug/net9.0/AprendendoApis.sourcelink.json
