@@ -1,4 +1,7 @@
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 public class TarefasContext : DbContext
 {

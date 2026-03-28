@@ -1,10 +1,13 @@
 namespace AprendendoApis.Models;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore;
 
 [Table("tarefas")]
 public class Tarefa
 {
     [Key]
-    [DatabaseGenerated(DataBaseGeneratedOption.Identity)]
+    [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
     public int Id { get; set; } = default!;
     [Required]
     [StringLength (100)]
