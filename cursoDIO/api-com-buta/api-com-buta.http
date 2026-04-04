@@ -1,0 +1,6 @@
+@api_com_buta_HostAddress = http://localhost:5144
+
+GET {{api_com_buta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
