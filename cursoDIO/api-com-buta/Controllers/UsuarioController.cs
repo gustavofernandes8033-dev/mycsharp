@@ -24,4 +24,11 @@ public class UsuarioController : ControllerBase
 
     }
 
+    [HttpGet("Apresentar")]
+    public IActionResult Apresentar(string nome)
+    {
+        var mensagem = $"ola {nome}, seja bem vindo";
+        return Ok(new Object { mensagem });
+    }
+
 }
