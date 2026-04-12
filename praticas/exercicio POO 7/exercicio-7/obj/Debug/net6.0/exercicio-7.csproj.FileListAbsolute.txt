@@ -1,0 +1,15 @@
+/home/nex/workspace/c#/mycsharp/praticas/exercicio POO 7/exercicio-7/bin/Debug/net6.0/exercicio-7
+/home/nex/workspace/c#/mycsharp/praticas/exercicio POO 7/exercicio-7/bin/Debug/net6.0/exercicio-7.deps.json
+/home/nex/workspace/c#/mycsharp/praticas/exercicio POO 7/exercicio-7/bin/Debug/net6.0/exercicio-7.runtimeconfig.json
+/home/nex/workspace/c#/mycsharp/praticas/exercicio POO 7/exercicio-7/bin/Debug/net6.0/exercicio-7.dll
+/home/nex/workspace/c#/mycsharp/praticas/exercicio POO 7/exercicio-7/bin/Debug/net6.0/exercicio-7.pdb
+/home/nex/workspace/c#/mycsharp/praticas/exercicio POO 7/exercicio-7/obj/Debug/net6.0/exercicio-7.GeneratedMSBuildEditorConfig.editorconfig
+/home/nex/workspace/c#/mycsharp/praticas/exercicio POO 7/exercicio-7/obj/Debug/net6.0/exercicio-7.AssemblyInfoInputs.cache
+/home/nex/workspace/c#/mycsharp/praticas/exercicio POO 7/exercicio-7/obj/Debug/net6.0/exercicio-7.AssemblyInfo.cs
+/home/nex/workspace/c#/mycsharp/praticas/exercicio POO 7/exercicio-7/obj/Debug/net6.0/exercicio-7.csproj.CoreCompileInputs.cache
+/home/nex/workspace/c#/mycsharp/praticas/exercicio POO 7/exercicio-7/obj/Debug/net6.0/exercicio-7.sourcelink.json
+/home/nex/workspace/c#/mycsharp/praticas/exercicio POO 7/exercicio-7/obj/Debug/net6.0/exercicio-7.dll
+/home/nex/workspace/c#/mycsharp/praticas/exercicio POO 7/exercicio-7/obj/Debug/net6.0/refint/exercicio-7.dll
+/home/nex/workspace/c#/mycsharp/praticas/exercicio POO 7/exercicio-7/obj/Debug/net6.0/exercicio-7.pdb
+/home/nex/workspace/c#/mycsharp/praticas/exercicio POO 7/exercicio-7/obj/Debug/net6.0/exercicio-7.genruntimeconfig.cache
+/home/nex/workspace/c#/mycsharp/praticas/exercicio POO 7/exercicio-7/obj/Debug/net6.0/ref/exercicio-7.dll

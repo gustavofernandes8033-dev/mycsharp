@@ -184,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,9 +197,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "6a02a685e0b3d29d",
+  "active": "9647420d1fd1a840",
   "lastOpenFiles": [
+    "Sem título",
     "API definição.md",
+    "Sem título.base",
     "Controllers.md",
     "Bem-vindo.md"
   ]

@@ -1,0 +1,6 @@
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/obj/Debug/net10.0/csharp.csproj.AssemblyReference.cache
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/obj/Debug/net10.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/obj/Debug/net10.0/csharp.AssemblyInfoInputs.cache
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/obj/Debug/net10.0/csharp.AssemblyInfo.cs
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/obj/Debug/net10.0/csharp.csproj.CoreCompileInputs.cache
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/obj/Debug/net10.0/csharp.sourcelink.json

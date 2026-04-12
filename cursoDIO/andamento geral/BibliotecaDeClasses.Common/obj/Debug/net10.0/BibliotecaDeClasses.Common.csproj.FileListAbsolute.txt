@@ -1,0 +1,12 @@
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/BibliotecaDeClasses.Common/bin/Debug/net10.0/BibliotecaDeClasses.Common.deps.json
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/BibliotecaDeClasses.Common/bin/Debug/net10.0/BibliotecaDeClasses.Common.dll
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/BibliotecaDeClasses.Common/bin/Debug/net10.0/BibliotecaDeClasses.Common.pdb
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/BibliotecaDeClasses.Common/obj/Debug/net10.0/BibliotecaDeClasses.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/BibliotecaDeClasses.Common/obj/Debug/net10.0/BibliotecaDeClasses.Common.AssemblyInfoInputs.cache
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/BibliotecaDeClasses.Common/obj/Debug/net10.0/BibliotecaDeClasses.Common.AssemblyInfo.cs
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/BibliotecaDeClasses.Common/obj/Debug/net10.0/BibliotecaDeClasses.Common.csproj.CoreCompileInputs.cache
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/BibliotecaDeClasses.Common/obj/Debug/net10.0/BibliotecaDeClasses.Common.sourcelink.json
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/BibliotecaDeClasses.Common/obj/Debug/net10.0/BibliotecaDeClasses.Common.dll
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/BibliotecaDeClasses.Common/obj/Debug/net10.0/refint/BibliotecaDeClasses.Common.dll
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/BibliotecaDeClasses.Common/obj/Debug/net10.0/BibliotecaDeClasses.Common.pdb
+/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/BibliotecaDeClasses.Common/obj/Debug/net10.0/ref/BibliotecaDeClasses.Common.dll

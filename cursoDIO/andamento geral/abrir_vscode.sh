@@ -7,4 +7,4 @@ DESKTOP_FILE="$(realpath "$0")"
 DIR="$(dirname "$DESKTOP_FILE")"
 
 # Abre o VS Code nessa pasta
-code "$DIR"
+codium "$DIR"

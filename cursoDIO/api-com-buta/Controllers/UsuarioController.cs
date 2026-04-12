@@ -16,19 +16,19 @@ public class UsuarioController : ControllerBase
     {
         var obj = new
         {
-          Data = DateTime.Now.ToLongDateString(),
-          Hora = DateTime.Now.ToShortTimeString()  
+            Data = DateTime.Now.ToLongDateString(),
+            Hora = DateTime.Now.ToShortTimeString()
         };
 
         return Ok(obj);
 
     }
 
-    [HttpGet("Apresentar")]
+    [HttpGet("Apresentar/{nome}")]
     public IActionResult Apresentar(string nome)
     {
         var mensagem = $"ola {nome}, seja bem vindo";
-        return Ok(new Object { mensagem });
+        return Ok(new { mensagem });
     }
 
 }

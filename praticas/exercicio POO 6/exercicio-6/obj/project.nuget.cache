@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZhbXg5OsO54=",
+  "success": true,
+  "projectFilePath": "/home/nex/workspace/c#/mycsharp/praticas/exercicio POO 6/exercicio-6/exercicio-6.csproj",
+  "expectedPackageFiles": [
+    "/home/nex/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

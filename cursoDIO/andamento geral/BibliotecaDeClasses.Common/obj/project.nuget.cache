@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sJOy3VubNT0=",
+  "success": true,
+  "projectFilePath": "/home/nex/workspace/c#/mycsharp/cursoDIO/andamento geral/BibliotecaDeClasses.Common/BibliotecaDeClasses.Common.csproj",
+  "expectedPackageFiles": [
+    "/home/nex/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Security.Cryptography.X509Certificates;
-using cursoDIO.Models;
+using cursoDIO.BibliotecaDeClasses.Common.Models;
 
 class Program
 {
@@ -9,12 +9,8 @@ class Program
     {
 
 
-        Console.WriteLine("digita algo ai");
-
-        string variavel = Console.ReadLine();
-        Console.WriteLine(variavel);
-
-
+       Pessoa p = new Pessoa("Helenna!!") ;
+       Console.WriteLine(p.Nome);
 
 /*
 
@@ -152,31 +148,31 @@ class Program
 
 
 
-       try //invocando os chamados de exeção "try/catch"
-       {
-                string[] linhas = File.ReadAllLines("Arquivos/teste__.txt"); //criando um vetor para armazenar cada linha em um local na memoria
-                foreach(string linha in linhas ) // percorrendo cada elemento no vetor
-                {
-                        Console.WriteLine(linha); // imprimindo os elementos no vetor
+//        try //invocando os chamados de exeção "try/catch"
+//        {
+//                 string[] linhas = File.ReadAllLines("Arquivos/teste__.txt"); //criando um vetor para armazenar cada linha em um local na memoria
+//                 foreach(string linha in linhas ) // percorrendo cada elemento no vetor
+//                 {
+//                         Console.WriteLine(linha); // imprimindo os elementos no vetor
                         
-                }
+//                 }
 
                 
-        } catch(FileNotFoundException uno){ //chamando a funcao catch e nomeando essa excecão de uno
-                Console.WriteLine($"ae burrão ta errado o nome do arquivo aí meo. {uno.Message}"); //exibindo mensagem de uno
+//         } catch(FileNotFoundException uno){ //chamando a funcao catch e nomeando essa excecão de uno
+//                 Console.WriteLine($"ae burrão ta errado o nome do arquivo aí meo. {uno.Message}"); //exibindo mensagem de uno
                         
-        } catch(DirectoryNotFoundException dos){ //chamando a funcao catch e nomeando essa excecão de dos
-                Console.WriteLine($"ae burrão não achou a pasta aí não burrão. {dos.Message}");
+//         } catch(DirectoryNotFoundException dos){ //chamando a funcao catch e nomeando essa excecão de dos
+//                 Console.WriteLine($"ae burrão não achou a pasta aí não burrão. {dos.Message}");
                         
-        } catch(Exception tres){//chamando a funcao catch e nomeando essa excecão de uno
-                Console.WriteLine($"ae burrão... deu algo errado aí irmão se vira aí tlg.... {tres.Message}");
+//         } catch(Exception tres){//chamando a funcao catch e nomeando essa excecão de uno
+//                 Console.WriteLine($"ae burrão... deu algo errado aí irmão se vira aí tlg.... {tres.Message}");
                         
-        }
+//         }
 
-        finally
-        {
-                Console.Write("vai continua aí doido"); 
-        }
+//         finally
+//         {
+//                 Console.Write("vai continua aí doido"); 
+//         }
 
    
 
