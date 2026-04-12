@@ -1,0 +1,26 @@
+tuplas em C#
+tupla oferece uma sintaxe concisa para agrupar vários elementos de dados em uma estrutura de dados leve.
+Não é uma coleção mas pode conter dentro dela uma coleção.
+Possível criar uma classe para representar uma tupla. 
+Sintaxe: 
+(tipo de dado) <nome-da-tupla> (dado)
+Ex.
+(int, string, string) tupla1 = (1, "helena", "fernandes");
+Console.WriteLine(tupla1.Item2);
+Output: helena
+
+(int, string, string) tupla1 = (1, "helena", "fernandes");
+Console.WriteLine(tupla1.Item2);
+Output: helena
+				OU
+(int identificacao, string nome, string sobrenome) tupla1 = (1, "helena", "fernandes");
+Console.WriteLine(tupla1.nome);
+Output: helena
+
+				OU
+ValueTuple<int identificacao, string nome, string sobrenome> tupla1 = (1, "helena", "fernandes");
+Console.WriteLine(tupla1.nome);
+Output: helena
+				
+				OU
+var <nome-da-tupla> = Tuple.Create(dados, da, tupla);
