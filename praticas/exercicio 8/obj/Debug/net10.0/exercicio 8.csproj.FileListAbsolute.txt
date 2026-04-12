@@ -1,0 +1,15 @@
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 8/bin/Debug/net10.0/exercicio 8
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 8/bin/Debug/net10.0/exercicio 8.deps.json
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 8/bin/Debug/net10.0/exercicio 8.runtimeconfig.json
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 8/bin/Debug/net10.0/exercicio 8.dll
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 8/bin/Debug/net10.0/exercicio 8.pdb
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 8/obj/Debug/net10.0/exercicio 8.GeneratedMSBuildEditorConfig.editorconfig
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 8/obj/Debug/net10.0/exercicio 8.AssemblyInfoInputs.cache
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 8/obj/Debug/net10.0/exercicio 8.AssemblyInfo.cs
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 8/obj/Debug/net10.0/exercicio 8.csproj.CoreCompileInputs.cache
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 8/obj/Debug/net10.0/exercicio 8.sourcelink.json
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 8/obj/Debug/net10.0/exercicio 8.dll
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 8/obj/Debug/net10.0/refint/exercicio 8.dll
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 8/obj/Debug/net10.0/exercicio 8.pdb
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 8/obj/Debug/net10.0/exercicio 8.genruntimeconfig.cache
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 8/obj/Debug/net10.0/ref/exercicio 8.dll
