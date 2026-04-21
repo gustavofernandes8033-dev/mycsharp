@@ -13,6 +13,7 @@ public class LeituraArquivo
         
         catch(Exception )
         {
+            Console.WriteLine("Deu errado ai o cabaço");
             return(false, new string[0], 0);
         }
 

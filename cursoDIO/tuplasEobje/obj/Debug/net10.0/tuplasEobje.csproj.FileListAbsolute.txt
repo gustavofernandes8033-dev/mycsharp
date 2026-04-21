@@ -1,0 +1,15 @@
+/home/nex/workspace/c#/mycsharp/cursoDIO/tuplasEobje/bin/Debug/net10.0/tuplasEobje
+/home/nex/workspace/c#/mycsharp/cursoDIO/tuplasEobje/bin/Debug/net10.0/tuplasEobje.deps.json
+/home/nex/workspace/c#/mycsharp/cursoDIO/tuplasEobje/bin/Debug/net10.0/tuplasEobje.runtimeconfig.json
+/home/nex/workspace/c#/mycsharp/cursoDIO/tuplasEobje/bin/Debug/net10.0/tuplasEobje.dll
+/home/nex/workspace/c#/mycsharp/cursoDIO/tuplasEobje/bin/Debug/net10.0/tuplasEobje.pdb
+/home/nex/workspace/c#/mycsharp/cursoDIO/tuplasEobje/obj/Debug/net10.0/tuplasEobje.GeneratedMSBuildEditorConfig.editorconfig
+/home/nex/workspace/c#/mycsharp/cursoDIO/tuplasEobje/obj/Debug/net10.0/tuplasEobje.AssemblyInfoInputs.cache
+/home/nex/workspace/c#/mycsharp/cursoDIO/tuplasEobje/obj/Debug/net10.0/tuplasEobje.AssemblyInfo.cs
+/home/nex/workspace/c#/mycsharp/cursoDIO/tuplasEobje/obj/Debug/net10.0/tuplasEobje.csproj.CoreCompileInputs.cache
+/home/nex/workspace/c#/mycsharp/cursoDIO/tuplasEobje/obj/Debug/net10.0/tuplasEobje.sourcelink.json
+/home/nex/workspace/c#/mycsharp/cursoDIO/tuplasEobje/obj/Debug/net10.0/tuplasEobje.dll
+/home/nex/workspace/c#/mycsharp/cursoDIO/tuplasEobje/obj/Debug/net10.0/refint/tuplasEobje.dll
+/home/nex/workspace/c#/mycsharp/cursoDIO/tuplasEobje/obj/Debug/net10.0/tuplasEobje.pdb
+/home/nex/workspace/c#/mycsharp/cursoDIO/tuplasEobje/obj/Debug/net10.0/tuplasEobje.genruntimeconfig.cache
+/home/nex/workspace/c#/mycsharp/cursoDIO/tuplasEobje/obj/Debug/net10.0/ref/tuplasEobje.dll

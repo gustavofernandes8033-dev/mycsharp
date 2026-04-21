@@ -7,10 +7,30 @@ class Program
 
     static void Main()
     {
+        Pessoa pessoaConstruida= new Pessoa("hele", "ferna");
+        (string nome, string sobrenome) = pessoaConstruida;
+        Console.WriteLine($"{nome} + {sobrenome}");
 
 
-       Pessoa p = new Pessoa("Helenna!!") ;
-       Console.WriteLine(p.Nome);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//        Pessoa p = new Pessoa("Helenna", "Fernandes") ;
+//        Console.WriteLine(p.Nome);
 
 /*
 
@@ -66,9 +86,11 @@ class Program
 
 
 
-
-/*
-        Stack<int> pilha = new Stack<int>();
+/* 
+        Exemplo de uma pilha  FILO / LIFO
+        First-in, Last-out / Last-in, First-out
+        Primeiro a entrar será o ultimo a sair / Ultimo a entrar é o primeiro a sair
+        Stack<int> pilha = new Stack<int>(); // instanciando a pilha com tipo inteiro e de nome pilha
 
         pilha.Push(1);
         pilha.Push(2);
@@ -87,26 +109,15 @@ class Program
         {
                 Console.WriteLine(item);
         }
+        pilha.Pop
 
 /*
 
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
+
+        Exemplo de uma fila, segue o padrão FIFO
+        First-in, First-out
+        Primeiro a entrar, primeiro a sair
         Queue<int> fila = new Queue<int>();
         fila.Enqueue(1);
         fila.Enqueue(2);

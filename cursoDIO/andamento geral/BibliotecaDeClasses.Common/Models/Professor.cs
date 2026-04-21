@@ -8,7 +8,7 @@ namespace cursoDIO.BibliotecaDeClasses.Common.Models
     public class Professor : Pessoa
     {
 
-        public Professor (string nome) : base (nome)
+        public Professor (string nome, string sobrenome) : base (nome, sobrenome)
         {
 
         }

@@ -13,12 +13,20 @@ namespace cursoDIO.BibliotecaDeClasses.Common.Models
 
        
         private string _nome;
+        private string _sobrenome;
 
-        public Pessoa(string nome)
+        public Pessoa(string nome, string sobrenome)
         {
            Nome = nome;
+           Sobrenome = sobrenome;
                   
         } 
+
+        public void Deconstruct(out string nome, out string sobrenome)
+        {
+            nome = Nome;
+            sobrenome = Sobrenome;
+        }
 
 
 
@@ -40,7 +48,21 @@ namespace cursoDIO.BibliotecaDeClasses.Common.Models
             }
         }
 
-	public string Sobrenome {get; set;}
+	public string Sobrenome
+    {
+            get => _sobrenome.ToUpper(); // obter um valor
+             
+
+            set // atribuir um valor
+            {
+                if(value == "")
+                {
+                    throw new ArgumentException("nome não pode ser vazio");
+                }
+
+                _sobrenome= value;
+            }
+        }
 	public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
 
 

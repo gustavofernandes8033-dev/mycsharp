@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "material",
+    "Preco": 126.45,
+    "DataVenda": "2026-04-19T17:15:51.6158685-03:00",
+    "Desconto": 14.0
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "carro",
+    "Preco": 12226.45,
+    "DataVenda": "2026-04-19T17:15:51.6158685-03:00",
+    "Desconto": null
+  }
+]
