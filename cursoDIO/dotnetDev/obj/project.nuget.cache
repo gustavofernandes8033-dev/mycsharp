@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "XRINVQF6quQ=",
+  "dgSpecHash": "2sh2tetL68E=",
   "success": true,
   "projectFilePath": "/home/nex/workspace/c#/mycsharp/cursoDIO/dotnetDev/dotnetDev.csproj",
   "expectedPackageFiles": [
-    "/home/nex/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512"
+    "/home/nex/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512",
+    "/home/nex/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
   ],
   "logs": []
 }

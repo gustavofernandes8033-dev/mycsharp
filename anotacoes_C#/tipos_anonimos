@@ -1,0 +1,7 @@
+usado para encapsular propriedades somente leitura.
+usado para representar diversos valores em uma unica variavel, similar a uma tupla.
+util para extrair propriedades de um objeto e representar ele em uma coleção ou em valores individuais
+
+Exemplo: um objeto tem propriedades como data-hora, local, preço e cor
+um tipo anonimo pode ser utilizado para separar as propriedades do objeto.
+criando um novo objeto do tipo anonimo que contem apenas com as propriedades desejadas, o objeto teria, por exemplo: cor e preço
