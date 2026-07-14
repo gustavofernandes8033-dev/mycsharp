@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2sh2tetL68E=",
+  "dgSpecHash": "o6VLO9JeeI79GmjXKqkiUMlKvxg+L/QW89rO5IpiUra0SRCxhDtHOpecvtc1Qe3tRMO0i7QIRoSHcgnI7s3fVA==",
   "success": true,
-  "projectFilePath": "/home/nex/workspace/c#/mycsharp/cursoDIO/dotnetDev/dotnetDev.csproj",
+  "projectFilePath": "/home/nex/mycsharp/cursoDIO/dotnetDev/dotnetDev.csproj",
   "expectedPackageFiles": [
-    "/home/nex/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512",
-    "/home/nex/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+    "/home/nex/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512"
   ],
   "logs": []
 }

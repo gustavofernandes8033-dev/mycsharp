@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api-com-buta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdb509ddb9cf489632ca703cabf178df41a3e187")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43de3c3e92f8cc5f848b58b27e3af78a74d7eb09")]
 [assembly: System.Reflection.AssemblyProductAttribute("api-com-buta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api-com-buta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

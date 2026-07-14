@@ -12,16 +12,16 @@ using Models;
 
 
 //______________________________________________________________________________________________________________________________________________________
-//                            SESSÃO SOBRE VARIAVEIS DINAMICAS
-// dynamic variavelDinamica = 4;
-//
-// Console.WriteLine($"Tipo da variavel {variavelDinamica.GetType()}, valor: {variavelDinamica}");
-//
-//
-// variavelDinamica = "Texto";
-//
-// Console.WriteLine($"Tipo da variavel {variavelDinamica.GetType()}, valor: {variavelDinamica}");
-//
+                        //    SESSÃO SOBRE VARIAVEIS DINAMICAS
+dynamic variavelDinamica = 4;
+
+Console.WriteLine($"Tipo da variavel {variavelDinamica.GetType()}, valor: {variavelDinamica}");
+
+
+variavelDinamica = "Texto";
+
+Console.WriteLine($"Tipo da variavel {variavelDinamica.GetType()}, valor: {variavelDinamica}");
+
 
 
 

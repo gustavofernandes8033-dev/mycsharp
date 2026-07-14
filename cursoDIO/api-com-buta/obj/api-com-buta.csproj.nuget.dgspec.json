@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nex/workspace/c#/mycsharp/cursoDIO/api-com-buta/api-com-buta.csproj": {}
+    "/home/nex/mycsharp/cursoDIO/api-com-buta/api-com-buta.csproj": {}
   },
   "projects": {
-    "/home/nex/workspace/c#/mycsharp/cursoDIO/api-com-buta/api-com-buta.csproj": {
+    "/home/nex/mycsharp/cursoDIO/api-com-buta/api-com-buta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nex/workspace/c#/mycsharp/cursoDIO/api-com-buta/api-com-buta.csproj",
+        "projectUniqueName": "/home/nex/mycsharp/cursoDIO/api-com-buta/api-com-buta.csproj",
         "projectName": "api-com-buta",
-        "projectPath": "/home/nex/workspace/c#/mycsharp/cursoDIO/api-com-buta/api-com-buta.csproj",
+        "projectPath": "/home/nex/mycsharp/cursoDIO/api-com-buta/api-com-buta.csproj",
         "packagesPath": "/home/nex/.nuget/packages/",
-        "outputPath": "/home/nex/workspace/c#/mycsharp/cursoDIO/api-com-buta/obj/",
+        "outputPath": "/home/nex/mycsharp/cursoDIO/api-com-buta/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nex/.nuget/NuGet/NuGet.Config"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -47,6 +47,16 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -64,16 +74,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.14, 9.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[9.0.14, 9.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.315/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,17 @@
+/home/nex/mycsharp/cursoDIO/dotnetDev/bin/Debug/net6.0/dotnetDev
+/home/nex/mycsharp/cursoDIO/dotnetDev/bin/Debug/net6.0/dotnetDev.deps.json
+/home/nex/mycsharp/cursoDIO/dotnetDev/bin/Debug/net6.0/dotnetDev.runtimeconfig.json
+/home/nex/mycsharp/cursoDIO/dotnetDev/bin/Debug/net6.0/dotnetDev.dll
+/home/nex/mycsharp/cursoDIO/dotnetDev/bin/Debug/net6.0/dotnetDev.pdb
+/home/nex/mycsharp/cursoDIO/dotnetDev/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/nex/mycsharp/cursoDIO/dotnetDev/obj/Debug/net6.0/dotnetDev.csproj.AssemblyReference.cache
+/home/nex/mycsharp/cursoDIO/dotnetDev/obj/Debug/net6.0/dotnetDev.GeneratedMSBuildEditorConfig.editorconfig
+/home/nex/mycsharp/cursoDIO/dotnetDev/obj/Debug/net6.0/dotnetDev.AssemblyInfoInputs.cache
+/home/nex/mycsharp/cursoDIO/dotnetDev/obj/Debug/net6.0/dotnetDev.AssemblyInfo.cs
+/home/nex/mycsharp/cursoDIO/dotnetDev/obj/Debug/net6.0/dotnetDev.csproj.CoreCompileInputs.cache
+/home/nex/mycsharp/cursoDIO/dotnetDev/obj/Debug/net6.0/dotnetDev.csproj.CopyComplete
+/home/nex/mycsharp/cursoDIO/dotnetDev/obj/Debug/net6.0/dotnetDev.dll
+/home/nex/mycsharp/cursoDIO/dotnetDev/obj/Debug/net6.0/refint/dotnetDev.dll
+/home/nex/mycsharp/cursoDIO/dotnetDev/obj/Debug/net6.0/dotnetDev.pdb
+/home/nex/mycsharp/cursoDIO/dotnetDev/obj/Debug/net6.0/dotnetDev.genruntimeconfig.cache
+/home/nex/mycsharp/cursoDIO/dotnetDev/obj/Debug/net6.0/ref/dotnetDev.dll
