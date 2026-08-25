@@ -1,0 +1,29 @@
+Memórias em C#
+Existem dois tipos principais de memória no C#
+a stack, que guarda na memória valores de tipos primitivos, como int, decimal, float, tuplas, bool e structs e a memória heap, onde se encontra os valores e instancias de tipos mais complexos, como classes e strings.
+Na Stack, encontramos a referencia, ou, endereço de memória para o objeto, este endereço nos leva até Heap, mas nunca encontraríamos a instancia do objeto na stack.
+
+em termos mais técnicos agora, existem *Value Types* (int, bool, double, char, structs) que geralmente ficam na memória stack e Reference Types (class, interface, delegate, string e object) sempre estão na heap. Os tipos anteriormente citados como value types podem aparecer na memória heap se forem declaradas dentro de um reference type, um exemplo seria uma classe que contem um atributo do tipo int ou bool. estes dois ultimos apareceriam na memória heap.
+A instancia de um objeto com todos os seus dados sempre fica na heap
+
+Garbage Collector
+A função do GC é tirar da memória uma objeto (ou uma instancia) Reference Type (classe, interface, string) quando esta não está sendo referenciada em nenhum lugar da stack.
+
+
+Tipos de Valores
+ao escrevermos o seguinte codigo
+a = 2;
+b = a;
+o código se comportará normalmente, em que b será igual a 'a', ou seja, ele também terá o valor de 'a' que é 2.
+e se alterarmos o valor de 'b' a variavel 'a' continuará intacta.
+
+Tipos de referência:
+1. Pessoa p1 = new Pessoa("Leonardo", "Buta"); //aqui instanciamos um objeto do tipo pessoa, com parametros determinando o nome do objeto pessoa
+2. Pessoa p2 = p1;	
+3. p2.Nome= "Eduardo";
+4. Console.WriteLine(p1.Nome);
+// output: "Eduardo"
+No tipo de referência temos um comportamento diferente comparado a dos tipos de valores. Na linha 2 é normal ter a espectativa que 'p2' será uma cópia de 'p1', mas Tipos de referencia se comportam de maneira diferente dos tipos de referencia.
+No caso dos tipos de referencia, a partir do passo 2 a variavel 'p2' passa a apontar para a mesma região que 'p1' aponta e caso 'p2' seja alterado, 'p1' também será.
+
+

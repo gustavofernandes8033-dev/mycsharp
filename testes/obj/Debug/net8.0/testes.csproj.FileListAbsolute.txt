@@ -12,3 +12,11 @@
 /home/nex/workspace/csharp/testes/obj/Debug/net8.0/testes.pdb
 /home/nex/workspace/csharp/testes/obj/Debug/net8.0/testes.genruntimeconfig.cache
 /home/nex/workspace/csharp/testes/obj/Debug/net8.0/ref/testes.dll
+/home/nex/workspace/c#/mycsharp/testes/obj/Debug/net8.0/testes.GeneratedMSBuildEditorConfig.editorconfig
+/home/nex/workspace/c#/mycsharp/testes/obj/Debug/net8.0/testes.AssemblyInfoInputs.cache
+/home/nex/workspace/c#/mycsharp/testes/obj/Debug/net8.0/testes.AssemblyInfo.cs
+/home/nex/workspace/c#/mycsharp/testes/obj/Debug/net8.0/testes.csproj.CoreCompileInputs.cache
+/home/nex/workspace/c#/mycsharp/testes/obj/Debug/net8.0/testes.sourcelink.json
+/home/nex/workspace/c#/mycsharp/testes/obj/Debug/net8.0/testes.dll
+/home/nex/workspace/c#/mycsharp/testes/obj/Debug/net8.0/refint/testes.dll
+/home/nex/workspace/c#/mycsharp/testes/obj/Debug/net8.0/testes.pdb

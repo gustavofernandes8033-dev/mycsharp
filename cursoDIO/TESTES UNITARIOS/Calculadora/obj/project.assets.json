@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/Calculadora.csproj",
+      "projectUniqueName": "/home/nex/workspace/c#/mycsharp/cursoDIO/TESTES UNITARIOS/Calculadora/Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/Calculadora.csproj",
+      "projectPath": "/home/nex/workspace/c#/mycsharp/cursoDIO/TESTES UNITARIOS/Calculadora/Calculadora.csproj",
       "packagesPath": "/home/nex/.nuget/packages/",
-      "outputPath": "/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/obj/",
+      "outputPath": "/home/nex/workspace/c#/mycsharp/cursoDIO/TESTES UNITARIOS/Calculadora/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nex/.nuget/NuGet/NuGet.Config"
@@ -26,6 +26,7 @@
         "net8.0"
       ],
       "sources": {
+        "/usr/lib64/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -43,7 +44,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -59,12 +61,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.30, 8.0.30]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[8.0.30, 8.0.30]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.30, 8.0.30]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/var/lib/snapd/snap/dotnet-sdk/256/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/10.0.111/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 13/bin/Debug/net10.0/exercicio 13
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 13/bin/Debug/net10.0/exercicio 13.deps.json
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 13/bin/Debug/net10.0/exercicio 13.runtimeconfig.json
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 13/bin/Debug/net10.0/exercicio 13.dll
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 13/bin/Debug/net10.0/exercicio 13.pdb
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 13/obj/Debug/net10.0/exercicio 13.GeneratedMSBuildEditorConfig.editorconfig
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 13/obj/Debug/net10.0/exercicio 13.AssemblyInfoInputs.cache
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 13/obj/Debug/net10.0/exercicio 13.AssemblyInfo.cs
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 13/obj/Debug/net10.0/exercicio 13.csproj.CoreCompileInputs.cache
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 13/obj/Debug/net10.0/exercicio 13.sourcelink.json
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 13/obj/Debug/net10.0/exercicio 13.dll
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 13/obj/Debug/net10.0/refint/exercicio 13.dll
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 13/obj/Debug/net10.0/exercicio 13.pdb
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 13/obj/Debug/net10.0/exercicio 13.genruntimeconfig.cache
+/home/nex/workspace/c#/mycsharp/praticas/exercicio 13/obj/Debug/net10.0/ref/exercicio 13.dll

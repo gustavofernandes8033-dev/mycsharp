@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hU63mUn3WbE=",
+  "dgSpecHash": "l3HcFdqM3fc=",
   "success": true,
-  "projectFilePath": "/home/nex/workspace/csharp/testes/testes.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/nex/workspace/c#/mycsharp/testes/testes.csproj",
+  "expectedPackageFiles": [
+    "/home/nex/.nuget/packages/microsoft.netcore.app.ref/8.0.28/microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "/home/nex/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.28/microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "/home/nex/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.28/microsoft.netcore.app.host.linux-x64.8.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

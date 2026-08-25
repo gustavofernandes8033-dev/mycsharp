@@ -1,5 +1,10 @@
-﻿string dataTexto = Console.ReadLine();
+﻿
+Console.WriteLine("isso é apenas um teste");n
+
+/*
+string dataTexto = Console.ReadLine();
 DateOnly data = default;
+
 if (DateOnly.TryParse(dataTexto, out data))
 {
   Console.WriteLine(data);
@@ -9,6 +14,8 @@ else
 {
     Console.WriteLine("Data Invalida");
 }
+
+*/
 /*
 static  bool ValidadordeData(string input, DateOnly dataValida)
 {

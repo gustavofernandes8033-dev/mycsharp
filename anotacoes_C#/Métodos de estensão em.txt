@@ -1,0 +1,18 @@
+Métodos de extensão em C#
+usados para adicionar novos comportamentos em um tipo.
+Ex.
+public static bool EhPar(this int numero)
+    {
+        return numero % 2 == 0;
+
+    }
+    
+    
+   este é um método que está em uma classe estática (não pode ser instanciada) chamada "intExtensions", que testa se um numero é par. dentro do parenteses é usado o "this int"
+ou seja, qualquer váriavel do tipo "int" agora terá acesso a este método
+int numero = 15;
+bool par = false;
+
+par = numero.EhPar();
+
+retorno ao rodar o código: false

@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nex/mycsharp/cursoDIO/dotnetDev/dotnetDev.csproj",
+      "projectUniqueName": "/home/nex/workspace/c#/mycsharp/cursoDIO/dotnetDev/dotnetDev.csproj",
       "projectName": "dotnetDev",
-      "projectPath": "/home/nex/mycsharp/cursoDIO/dotnetDev/dotnetDev.csproj",
+      "projectPath": "/home/nex/workspace/c#/mycsharp/cursoDIO/dotnetDev/dotnetDev.csproj",
       "packagesPath": "/home/nex/.nuget/packages/",
-      "outputPath": "/home/nex/mycsharp/cursoDIO/dotnetDev/obj/",
+      "outputPath": "/home/nex/workspace/c#/mycsharp/cursoDIO/dotnetDev/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nex/.nuget/NuGet/NuGet.Config"
@@ -73,6 +73,7 @@
         "net6.0"
       ],
       "sources": {
+        "/usr/lib64/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -85,7 +86,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net6.0": {
@@ -107,12 +114,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/nex/.dotnet6/sdk/6.0.428/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/10.0.111/RuntimeIdentifierGraph.json"
       }
     }
   }

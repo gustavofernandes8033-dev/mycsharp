@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Qwv+NejWSps=",
+  "dgSpecHash": "6L00zpeHbk8=",
   "success": true,
-  "projectFilePath": "/home/nex/workspace/csharp/cursoDIO/TESTES UNITARIOS/Calculadora/Calculadora.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/nex/workspace/c#/mycsharp/cursoDIO/TESTES UNITARIOS/Calculadora/Calculadora.csproj",
+  "expectedPackageFiles": [
+    "/home/nex/.nuget/packages/microsoft.netcore.app.ref/8.0.30/microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "/home/nex/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.30/microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
+    "/home/nex/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.30/microsoft.netcore.app.host.linux-x64.8.0.30.nupkg.sha512"
+  ],
   "logs": []
 }
