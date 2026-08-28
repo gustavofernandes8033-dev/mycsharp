@@ -4,7 +4,7 @@ using api_com_buta.Entities;
 
 
 
-namespace api_com_buta;
+namespace api_com_buta.Context;
 
 public class AgendaContext : DbContext
 {
@@ -13,6 +13,6 @@ public class AgendaContext : DbContext
 
   }
 
-  public DbSet<Contato> Contatos{get; set}
+  public DbSet<Contato> Contatos{get; set;}
 
 }

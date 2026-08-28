@@ -1,7 +1,16 @@
+using api_com_buta;
+using Microsoft.EntityFrameworkCore;
+using api_com_buta.Context;
+   
 var builder = WebApplication.CreateBuilder(args);
+
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 // Add services to the container.
+
+builder.Services.AddDbContext<AgendaContext>(options => 
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoPadrao")));
 
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi

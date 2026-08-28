@@ -1,4 +1,4 @@
-﻿namespace api_com_buta;
+﻿namespace api_com_buta.Entities;
 
 public class Contato
 {
