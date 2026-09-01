@@ -34,3 +34,25 @@ No projeto fazemos a conexão com o banco de dados da seguinte forma: Criamos a 
 ## Migrations
 
 Todas as classes que aparecerem no arquivo Context e estiverem em um DbSet<> irão se tornar "entidades", isso é, existem como classes no C# e existem como tabelas no Banco de Dados.
+
+## Verbos HTTP
+
+POST -- Create - Criar/registrar informações     
+
+GET -- Read - Retorno de uma informação
+
+PUT -- Update - Atualizar/modificar informações que já estão no banco
+
+PATCH -- Update/Modify - Atualizar/modificar informações que já estão no banco
+
+DELETE -- Delete - Deletar informações
+
+## Respostas HTTP
+
+404 - not found
+
+200 - OK
+
+409 - Conflict - Aparece em casos onde uma informação precisa ser unica, exemplo, um um email só pode ser associado a um unico cliente. se tentarmos usar um email em mais de um cliente é retornado o 409 - conflict
+
+204 - No Content - Sem nenhuma informação a retornar.
