@@ -1,8 +1,18 @@
-﻿@{
+﻿@using Microsoft.EntityFrameworkCore.Metadata.Internal
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
     <h1 class="display-4">Seja Bem-vindo</h1>
-    <p>Use os menus acima para navegar</p>
+    <p>Use os menus abaixo para navegar</p>
+</div>
+
+<br>
+
+
+<div class="text-center">
+  <p> 
+    <a asp-controller="Contato" asp-action="Index"> Lista de contatos</a>
+  </p>
 </div>
